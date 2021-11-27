@@ -3,7 +3,15 @@ body{
 }
 canvas{
     border: 1px solid white;
+    background-color: black;
 }
 .instruct p{
     text-align: right;
+}
+.instruction .instruction1 button{
+    font-weight: bold;
+}
+.instruction{
+    font-weight: bold;
+    color: white;
 }
